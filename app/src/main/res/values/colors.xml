@@ -1,0 +1,9 @@
+<resources>
+    <color name="primary_terracotta">#BD5338</color>
+    <color name="primary_container">#FDEEE9</color>
+    <color name="secondary_blush">#D98A7B</color>
+    <color name="cream_bg">#FAF7F2</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="ink_text">#3D2E28</color>
+    <color name="muted_text">#7E6C65</color>
+</resources>

@@ -1,0 +1,5 @@
+ALTER TABLE public.profiles
+  ADD COLUMN IF NOT EXISTS bg_url text,
+  ADD COLUMN IF NOT EXISTS bg_blur integer NOT NULL DEFAULT 0,
+  ADD COLUMN IF NOT EXISTS bg_dim integer NOT NULL DEFAULT 30,
+  ADD COLUMN IF NOT EXISTS bg_text_theme text NOT NULL DEFAULT 'auto';
